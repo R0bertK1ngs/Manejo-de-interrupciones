@@ -1,0 +1,5 @@
+Iniciando el programa de prueba.
+Ejecutando algunas operaciones iniciales.
+write(300000,'accion')
+Realizando más operaciones en modo usuario.
+Finalizando la ejecución del programa.
